@@ -18,17 +18,17 @@
 </p>
 <div>
   <h3 style="margin-left:100px">首页：</h3>
-  <img  src="./ima/fir.png" style="width:10%;margin-left:200px" >
+  <img  src="./ima/fir.png" style="width:250px;height:500px;margin-left:400px" >
   <h3 style="margin-left:100px">问题输入：</h3>
-  <img  src="./ima/shu.png" style="width:10%;margin-left:200px">   
+  <img  src="./ima/shu.png" style="width:250px;height:500px;margin-left:400px">   
   <h3 style="margin-left:100px"> 推理页：</h3>
-  <img  src="./ima/gu.png" style="width:10%;margin-left:200px">
+  <img  src="./ima/gu.png" style="width:250px;height:500px;margin-left:400px">
   <h3 style="margin-left:100px">图谱页：</h3>
-  <img  src="./ima/pic.png" style="width:10%;margin-left:200px" >
+  <img  src="./ima/pic.png" style="width:250px;height:500px;margin-left:400px" >
   <h3 style="margin-left:100px">反馈页：</h3>
-  <img  src="./ima/sak.png" style="width:10%;margin-left:200px">
+  <img  src="./ima/sak.png" style="width:250px;height:500px;margin-left:400px">
   <h3 style="margin-left:100px">故障列表页：</h3>
-  <img  src="./ima/error.png" style="width:10%;margin-left:200px">
+  <img  src="./ima/error.png" style="width:250px;height:500px;margin-left:400px">
   <p></p>
   
   </div>
